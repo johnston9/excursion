@@ -19,6 +19,10 @@ body {
 
 .header--sub {
     font-size: 21px;
-    color: grey;
+    color: grey;}
 
+.copy {
+    color: grey;
+    text-align: right;
+    font-size: 21px;
 }
